@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MooTorrent Changelog</title>
+    <description></description>
+    <language>en</language>
+      <item>
+        <title>Version 1.0alpha3</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixed a crash when starting the app for the first time.</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Wed, 26 Oct 2016 21:24:11 +0000</pubDate>
+        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/0.1alpha2/MooTorrent.app.zip" sparkle:version="2.0" length="2395612" type="application/octet-stream" sparkle:dsaSignature="MCwCFE0av9Cu/mVyKUaKVmprJK4bP3PhAhRtq3ObNazdLNFJ8eV9KxwivGdETQ==" />
+      </item>
+  </channel>
+</rss>
