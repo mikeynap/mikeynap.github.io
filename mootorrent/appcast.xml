@@ -5,16 +5,17 @@
     <description></description>
     <language>en</language>
       <item>
-        <title>Version 0.1alpha3</title>
+        <title>Version 0.1alpha4</title>
         <description>
           <![CDATA[
             <ul>
-              <li>Fixed a crash when starting the app for the first time.</li>
+                <li>Fixed a crash when starting the app for the first time.</li>
+                <li>Auto Updates.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>Wed, 26 Oct 2016 21:24:11 +0000</pubDate>
-        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/0.1alpha2/MooTorrent.app.zip" sparkle:version="0/alpha3" length="2395612" type="application/octet-stream" sparkle:dsaSignature="MCwCFE0av9Cu/mVyKUaKVmprJK4bP3PhAhRtq3ObNazdLNFJ8eV9KxwivGdETQ==" />
+        <pubDate>Wed, 26 Oct 2016 22:13:11 +0000</pubDate>
+        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/0.1alpha4/MooTorrent.app.zip" sparkle:version="0.1alpha4" length="3586205" type="application/octet-stream" sparkle:dsaSignature="MCwCFApn6u1XHvt4C2CVL3lSxj4OBwCRAhQY4ji2JX5ewROnhC35mvmRC3IBmQ==" />
       </item>
   </channel>
 </rss>
