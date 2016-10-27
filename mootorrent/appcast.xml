@@ -15,7 +15,7 @@
           ]]>
         </description>
         <pubDate>Wed, 26 Oct 2016 22:13:11 +0000</pubDate>
-        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/0.1alpha4/MooTorrent.app.zip" sparkle:version="0.1alpha4" length="3586205" type="application/octet-stream" sparkle:dsaSignature="MCwCFApn6u1XHvt4C2CVL3lSxj4OBwCRAhQY4ji2JX5ewROnhC35mvmRC3IBmQ==" />
+        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/v0.1alpha4/MooTorrent.app.zip" sparkle:version="0.1alpha4" length="3586205" type="application/octet-stream" sparkle:dsaSignature="MCwCFApn6u1XHvt4C2CVL3lSxj4OBwCRAhQY4ji2JX5ewROnhC35mvmRC3IBmQ==" />
       </item>
   </channel>
 </rss>
