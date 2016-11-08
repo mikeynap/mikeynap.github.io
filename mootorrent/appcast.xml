@@ -16,8 +16,8 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Mon, 7 Nov 2016 21:40:11 +0000</pubDate>
-        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/v0.2.0/MooTorrent.zip" sparkle:version="100" sparkle:shortVersionString="v0.2.0" length="4119861" type="application/octet-stream" sparkle:dsaSignature="MCwCFH8pwVuJ/Ml0JAhAAYSl5jCyo6u6AhRFii2HNwUM4/mqSYG9lg638a4+Jg==" />
+        <pubDate>Mon, 7 Nov 2016 22:07:11 +0000</pubDate>
+        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/v0.2.0/MooTorrent.zip" sparkle:version="100" sparkle:shortVersionString="v0.2.0" length="4126940" type="application/octet-stream" sparkle:dsaSignature="MCwCFBeuH2k2yxhaD2FJt/HDCy9r7Mg+AhR4/yX83fjFKg9CyokWNPCJ+KEqvA==" />
       </item>
   </channel>
 </rss>
