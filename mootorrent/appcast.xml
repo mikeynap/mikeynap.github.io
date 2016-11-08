@@ -5,17 +5,19 @@
     <description></description>
     <language>en</language>
       <item>
-        <title>Version 0.1alpha4</title>
+        <title>Version 0.2</title>
         <description>
           <![CDATA[
             <ul>
-                <li>Fixed a crash when starting the app for the first time.</li>
-                <li>Auto Updates.</li>
+                <li>Now finds the airdate of episodes in the list by queuing thetvdb.</li>
+                <li>Displays shows that are airing today at top.</li>
+                <li>Fixed a few memory leaks with CWWiFiClient and others.</li>
+
             </ul>
           ]]>
         </description>
-        <pubDate>Wed, 26 Oct 2016 22:13:11 +0000</pubDate>
-        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/v0.1alpha4/MooTorrent.app.zip" sparkle:version="0.2" length="3586205" type="application/octet-stream" sparkle:dsaSignature="MCwCFApn6u1XHvt4C2CVL3lSxj4OBwCRAhQY4ji2JX5ewROnhC35mvmRC3IBmQ==" />
+        <pubDate>Mon, 7 Nov 2016 21:40:11 +0000</pubDate>
+        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/v0.2.0/MooTorrent.app.zip" sparkle:version="100" sparkle:shortVersionString="v0.2.0" length="4119861" type="application/octet-stream" sparkle:dsaSignature="MCwCFH8pwVuJ/Ml0JAhAAYSl5jCyo6u6AhRFii2HNwUM4/mqSYG9lg638a4+Jg==" />
       </item>
   </channel>
 </rss>
