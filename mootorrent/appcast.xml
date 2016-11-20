@@ -5,19 +5,16 @@
     <description></description>
     <language>en</language>
       <item>
-        <title>Version 0.2</title>
+        <title>Version 0.2.1</title>
         <description>
           <![CDATA[
             <ul>
-                <li>Now finds the airdate of episodes in the list by queuing thetvdb.</li>
-                <li>Displays shows that are airing today at top.</li>
-                <li>Fixed a few memory leaks with CWWiFiClient and others.</li>
-
+                <li>Bugfixes with "airing today".</li>
             </ul>
           ]]>
         </description>
-        <pubDate>Mon, 7 Nov 2016 22:07:11 +0000</pubDate>
-        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/v0.2.0/MooTorrent.zip" sparkle:version="100" sparkle:shortVersionString="v0.2.0" length="4126940" type="application/octet-stream" sparkle:dsaSignature="MCwCFBeuH2k2yxhaD2FJt/HDCy9r7Mg+AhR4/yX83fjFKg9CyokWNPCJ+KEqvA==" />
+        <pubDate>Mon, 19 Nov 2016 22:07:11 +0000</pubDate>
+        <enclosure url="https://github.com/mikeynap/MooTorrent/releases/download/v0.2.1/MooTorrent.zip" sparkle:version="101" sparkle:shortVersionString="v0.2.1" length="4124253" type="application/octet-stream" sparkle:dsaSignature="MC0CFG7d5oJWdonlDsjrnJj4aNXhUkONAhUAgh+sEpYlIEX8bCJ+MnbeioGQ590=" />
       </item>
   </channel>
 </rss>
