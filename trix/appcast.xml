@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Trix Changelog</title>
+    <description></description>
+    <language>en</language>
+      <item>
+        <title>Version 0.0.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+                <li>V0.0.2 Baby. Adds Auto Update.</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Mon, 2 Dec 2016 12:07:11 +0000</pubDate>
+        <enclosure url="https://github.com/mikeynap/Trix/releases/download/v0.0.2/Trix.zip" sparkle:version="101" sparkle:shortVersionString="v0.0.2" length="3481812" type="application/octet-stream" sparkle:dsaSignature="MCwCFDPZK3NrH8w2j1FV5n/nuvlWA7rgAhQ928Mfxy56hO8IturixsOXzSe2NQ==" />
+      </item>
+  </channel>
+</rss>
