@@ -5,16 +5,16 @@
     <description></description>
     <language>en</language>
       <item>
-        <title>Version 0.0.3</title>
+        <title>Version 0.0.4</title>
         <description>
           <![CDATA[
             <ul>
-                <li>Statically linked mp4art/ffmpeg..</li>
+                <li>Auto Updater.</li>
             </ul>
           ]]>
         </description>
         <pubDate>Mon, 3 Dec 2016 12:07:11 +0000</pubDate>
-        <enclosure url="https://github.com/mikeynap/Trix/releases/download/v0.0.3/Trix.app.zip" sparkle:version="103" sparkle:shortVersionString="v0.0.3" length="17203686" type="application/octet-stream" sparkle:dsaSignature="MCwCFBT2M33tNA6JrZMyYZO8u5AOQudbAhRNbinjrdHkvWUYf5HsZWui+9W58A==" />
+        <enclosure url="https://github.com/mikeynap/Trix/releases/download/v0.0.4/Trix.app.zip" sparkle:version="104" sparkle:shortVersionString="v0.0.4" length="17203686" type="application/octet-stream" sparkle:dsaSignature="MC0CFAmEPGwJWXSMRAB6MtNNMfMO71dDAhUAsCOSld1nXzpPP1Zqf7DbchEv9dg=" />
       </item>
   </channel>
 </rss>
