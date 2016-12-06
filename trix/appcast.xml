@@ -5,21 +5,17 @@
     <description></description>
     <language>en</language>
       <item>
-        <title>Version 0.0.5</title>
+        <title>Version 0.0.6</title>
         <description>
           <![CDATA[
             <ul>
-                <li>Progress Bar!</li>
-                <li>Quality Menu</li>
-                <li>Override Cover Art</li>
-                <li>Override Show Name</li>
-                <li>App Icon</li>
-                <li>Stability</li>
+                <li>320kb AAC</li>
+                <li>Perfect for Sick Dads</li>
             </ul>
           ]]>
         </description>
-        <pubDate>Mon, 4 Dec 2016 12:07:11 +0000</pubDate>
-        <enclosure url="https://github.com/mikeynap/Trix/releases/download/v0.0.5/Trix.app.zip" sparkle:version="105" sparkle:shortVersionString="v0.0.5" length="18090472" type="application/octet-stream" sparkle:dsaSignature="MC0CFDnKcViTjL1GawGKSZ+qp0Rgr8zkAhUAva9kRoRfYCAYt2huQXiyP9AxvQM=" />
+        <pubDate>Mon, 6 Dec 2016 12:07:11 +0000</pubDate>
+        <enclosure url="https://github.com/mikeynap/Trix/releases/download/v0.0.6/Trix.app.zip" sparkle:version="106" sparkle:shortVersionString="v0.0.6" length="18090598" type="application/octet-stream" sparkle:dsaSignature="MC0CFEjCJaTbPFY85GTc25qnj4835RApAhUAhmIMNE9JvZXQoAqm4RsocoyROy4=" />
       </item>
   </channel>
 </rss>
