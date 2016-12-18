@@ -5,16 +5,16 @@
     <description></description>
     <language>en</language>
       <item>
-        <title>Version 0.0.7</title>
+        <title>Version 0.0.8</title>
         <description>
           <![CDATA[
             <ul>
-                <li>Changed from AAC to MP3. iTunes errored on uploading the AAC's to the cloud.</li>
+                <li>Batch Convert Mode</li>
             </ul>
           ]]>
         </description>
-        <pubDate>Mon, 17 Dec 2016 12:07:11 +0000</pubDate>
-        <enclosure url="https://github.com/mikeynap/Trix/releases/download/v0.0.7/Trix.app.zip" sparkle:version="107" sparkle:shortVersionString="v0.0.7" length="18094440" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCUGr9zkUMSbwEGtUkLXRW9OxHuEQIUZUYQdV5lK8dPtHeNiHm2g6jYD5c=" />
+        <pubDate>Mon, 18 Dec 2016 12:07:11 +0000</pubDate>
+        <enclosure url="https://github.com/mikeynap/Trix/releases/download/v0.0.8/Trix.app.zip" sparkle:version="108" sparkle:shortVersionString="v0.0.8" length="18096650" type="application/octet-stream" sparkle:dsaSignature="MCwCFGocDAYIBXurw2qevpcP7qixhB/7AhQNW9KVTnHJaBlo0PIAtOyyS59lrw==" />
       </item>
   </channel>
 </rss>
